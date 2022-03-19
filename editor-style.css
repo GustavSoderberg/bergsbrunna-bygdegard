@@ -1,0 +1,30 @@
+.editor-post-title {
+    line-height: 1.25em;
+	font-weight: 900;
+	letter-spacing: 0.5px;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+h2 {
+    line-height: 1.25em;
+	font-weight: 900;
+	letter-spacing: 0.5px;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+p {
+	font-size: 1.25em;
+	font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 500;
+    line-height: 1.75em;
+    letter-spacing: 0.5px;
+}
+
+a {
+	color: #0c7a00;
+}
+
+.wp-block{
+	margin-bottom: 1em;
+	margin-top: 0em;
+}
