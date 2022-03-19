@@ -3,6 +3,7 @@
 		<head>
 			<meta charset="<?php bloginfo( 'charset' ); ?>">
 			<title><?php bloginfo( 'name' ); ?></title>
+			<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 			<meta name="viewport" content="width=device-width, initial-scale=1">
 			<?php wp_head() ?>
 		</head>
